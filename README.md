@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Ruchit 👋
 
-<!--
-**ruchit-karnik/ruchit-karnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science and Financial Mathematics & Statistics student at the University of Sydney.
 
-Here are some ideas to get you started:
+Interested in **quantitative finance, software engineering, and data-driven problem solving**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech
+Python • Java • PostgreSQL • Pandas • Git • n8n
+
+### Currently
+- Building technical projects in automation, data, and software
+- Improving my algorithms and quantitative problem-solving skills
+- Exploring quantitative trading and applied machine learning
+
+### Featured Work
+- **ClaimFlow** — allied-health claims automation
+- **Solvability** — research-informed learning platform
+- **Machine Learning Research** — stock-price and earthquake prediction
+
+[LinkedIn](YOUR_LINKEDIN_URL)
