@@ -5,7 +5,7 @@ Computer Science and Financial Mathematics & Statistics student at the Universit
 Interested in **quantitative finance, software engineering, and data-driven problem solving**.
 
 ### Tech
-Python • Java • PostgreSQL • Pandas • Git • n8n
+Python • Java • PostgreSQL • Pandas • n8n
 
 ### Currently
 - Building technical projects in automation, data, and software
